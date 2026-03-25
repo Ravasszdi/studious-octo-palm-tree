@@ -29,14 +29,6 @@ const TESZTESETEK = [
         vart:{x1:-2,x2:-2},
         szoveg:"Az értékek természetes számok,a vissza kapott érték negatív"
     },
-    {
-        a:0,
-        b:4,
-        c:4,
-        vart:{x1:-2,x2:-2},
-        szoveg:"Az értékek természetes számok,a vissza kapott érték negatív"
-    },
-
 ];
 
 export function masdofokuTesztek() {
